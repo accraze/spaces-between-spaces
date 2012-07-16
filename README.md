@@ -59,11 +59,11 @@ Once the initial configuration is displayed, hit any key to continue. The game p
 
 ![](http://github.com/accraze/spaces-between-spaces/raw/master/img/menu.jpg)
 
-*(1) Create Spaces Between Spaces
-*(2) Restart the Game
-*(3) Display the Current Board
-*(4) Enter a New Board
-*(5) Stop the Program
+*(1) Create Spaces Between Spaces*  
+*(2) Restart the Game*  
+*(3) Display the Current Board*  
+*(4) Enter a New Board*  
+*(5) Stop the Program*  
 
 To play the game select '(1) Create Spaces Between Spaces'. The user will be asked to define how many 'steps' in evolution of the board are desired. The board will then cycle through its many steps of evolution.
 
@@ -76,4 +76,9 @@ Choose '(4) Enter a New Board' to set up a new initial configuration.
 To quit, select '(5) Stop the Program'.
 
 
+Credits
+-------
 
+- Title came from lyrics in 'Only When It Rains' by John Buck Wilkin 
+- General Concept - John Conway
+- Syntax/help from R Simms. (MCC)
