@@ -13,8 +13,6 @@ Conway's Game of Life is an infinite 2-dimensional orthogonal grid of square cel
 	4. Any dead cell with exactly 3 live neighbours becomes a live cell, as if by reproduction.
 
 
-![](http://github.com/accraze/bicycle-race/raw/master/img/bicycleRace.jpg)
-
 
 Menu Options
 ------------
@@ -32,15 +30,21 @@ If the user selects to *Load Data File*, the menu will ask for a full data file 
 
 If the user selects *Load Predefined Board* , they will be allowed to choose from 4 different predefined shapes. 
 
-![](http://github.com/accraze/spaces-between-spaces/raw/master/img/backslash1.jpg)
-*(1) Backslash
-![](http://github.com/accraze/spaces-between-spaces/raw/master/img/doublehelix.jpg)
-*(2) Double Helix
-![](http://github.com/accraze/spaces-between-spaces/raw/master/img/triangle.jpg)
-*(3) Triangle
-![](http://github.com/accraze/spaces-between-spaces/raw/master/img/diamond.jpg)
-*(4) Diamond
 
+*(1) Backslash*  
+![](http://github.com/accraze/spaces-between-spaces/raw/master/img/backslash1.jpg)   
+
+
+*(2) Double Helix*  
+![](http://github.com/accraze/spaces-between-spaces/raw/master/img/doublehelix.jpg)   
+
+
+*(3) Triangle*  
+![](http://github.com/accraze/spaces-between-spaces/raw/master/img/triangle.jpg)    
+
+
+*(4) Diamond*  
+![](http://github.com/accraze/spaces-between-spaces/raw/master/img/diamond.jpg)
 
 After a Start Menu option has been chosen and configured, the game will start.
 
@@ -50,9 +54,10 @@ Game Play
 
 Conway's Game of Life is described as a 'zero-player game' meaning that it will run based on its initial state. Create an initial configuration and observe how it evolves!
 
-![](http://github.com/accraze/spaces-between-spaces/raw/master/img/menu.jpg)
 
 Once the initial configuration is displayed, hit any key to continue. The game play menu will appear:
+
+![](http://github.com/accraze/spaces-between-spaces/raw/master/img/menu.jpg)
 
 *(1) Create Spaces Between Spaces
 *(2) Restart the Game
