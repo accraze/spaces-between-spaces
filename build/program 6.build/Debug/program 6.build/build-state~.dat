@@ -1,0 +1,62 @@
+Tprogram 6
+v7
+r0
+t311835426.194196
+cCheck dependencies
+cCompileC "build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/main.o" "/Users/accraze/Documents/program 6/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+cLd "/Users/accraze/Documents/program 6/build/Debug/program 6" normal x86_64
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Users/accraze/Documents/program 6/build/Debug/program 6
+t1290142626
+s11016
+
+N/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/main.o
+t1290142625
+s95988
+
+N/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/program 6.LinkFileList
+c000000004CE6039F000000000000006C
+t1290142623
+s108
+
+N/Users/accraze/Documents/program 6/main.cpp
+c000000004CE60399000000000000019A
+t1290142617
+s410
+i<iostream>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311835423#311835423#0(0"0(0#1#0"8601726592#0"0#
+
+CCompileC "build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/main.o" "/Users/accraze/Documents/program 6/main.cpp" normal x86_64 c++ com.apple.compilers.gcc.4_2
+s311835423.748776
+e311835425.810663
+r1
+xCompileC
+xbuild/program 6.build/Debug/program 6.build/Objects-normal/x86_64/main.o
+x/Users/accraze/Documents/program 6/main.cpp
+xnormal
+xx86_64
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,
+o                 from /Users/accraze/Documents/program 6/main.cpp:1:
+o/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.
+lSLF07#2@51"Compile /Users/accraze/Documents/program 6/main.cpp311835423#311835425#0(619"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h:31,                 from /Users/accraze/Documents/program 6/main.cpp:1:/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h:32:2: warning: #warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.1(22@354"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated.311835424#168#451#3(7@65"In file included from /Users/accraze/Documents/program 6/main.cpp311835424#18446744073709551615#0#0(6@43"/Users/accraze/Documents/program 6/main.cpp311835417#1#0#1#0#0"0(7@94"In file included from /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h311835424#18446744073709551615#0#0(6@72"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/iostream.h289468984#31#0#31#0#0"0(13@438"#warning This file includes at least one deprecated or antiquated header. Please consider using one of the 32 headers found in section 17.4.1.2 of the C++ standard. Examples include substituting the <X> header for the <X.h> header for C++ includes, or <iostream> instead of the deprecated header <iostream.h>. To disable this warning use -Wno-deprecated. in /Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h311835424#18446744073709551615#0#0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h289468984#32#0#32#0#0"0(6@80"/Developer/SDKs/MacOSX10.6.sdk/usr/include/c++/4.2.1/backward/backward_warning.h289468984#32#0#32#0#10"#warning *0(0#0#43"/Users/accraze/Documents/program 6/main.cpp8611620512#1305"    cd "/Users/accraze/Documents/program 6"    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c++ -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote "/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/program 6-generated-files.hmap" "-I/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/program 6-own-target-headers.hmap" "-I/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/program 6-all-target-headers.hmap" -iquote "/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/program 6-project-headers.hmap" "-F/Users/accraze/Documents/program 6/build/Debug" "-I/Users/accraze/Documents/program 6/build/Debug/include" "-I/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/DerivedSources/x86_64" "-I/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/DerivedSources" -c "/Users/accraze/Documents/program 6/main.cpp" -o "/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/main.o"0#
+
+CLd "/Users/accraze/Documents/program 6/build/Debug/program 6" normal x86_64
+s311835425.810816
+e311835426.194138
+r1
+xLd
+x/Users/accraze/Documents/program 6/build/Debug/program 6
+xnormal
+xx86_64
+lSLF07#2@61"Link /Users/accraze/Documents/program 6/build/Debug/program 6311835425#311835426#0(0"0(0#0#0"8605284544#496"    cd "/Users/accraze/Documents/program 6"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk "-L/Users/accraze/Documents/program 6/build/Debug" "-F/Users/accraze/Documents/program 6/build/Debug" -filelist "/Users/accraze/Documents/program 6/build/program 6.build/Debug/program 6.build/Objects-normal/x86_64/program 6.LinkFileList" -mmacosx-version-min=10.6 -o "/Users/accraze/Documents/program 6/build/Debug/program 6"0#
+
